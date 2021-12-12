@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Khouloud Ben Hmidene
+- 👀 I’m interested in Computer Science and Artificial Intelligence
+- 🌱 I’m currently 3rd year engineering student at ENSI, the National School of Computer Science
+- 📫 My email = khouloud.benhmidene@ensi-uma.tn
